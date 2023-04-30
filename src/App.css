@@ -1,0 +1,17 @@
+.chart-container{
+    display:flex;
+}
+.bar-chart-container{
+    flex: 1;
+    padding: 1rem;
+}
+.line-chart-container{
+    flex: 1;
+    padding: 1rem;
+}
+
+@media(max-width:1000px){
+    .chart-container{
+        flex-direction: column;
+    }
+}
