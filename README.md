@@ -77,5 +77,5 @@ chart screenshot
 https://github.com/Shubhankardev90/manufac/blob/main/charts.png
 
 
-![Bar and Line Chart](/manufac/blob/main/charts.png?raw=true "Bar and Line chart")
+![Bar and Line Chart](/charts.png?raw=true "Bar and Line chart")
 
