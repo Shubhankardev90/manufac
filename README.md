@@ -75,3 +75,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 chart screenshot
 
 https://github.com/Shubhankardev90/manufac/blob/main/charts.png
+
+
+![Bar and Line Chart](/manufac/blob/main/charts.png?raw=true "Bar and Line chart")
+
